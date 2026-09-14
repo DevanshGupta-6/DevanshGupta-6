@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a news and a blog website<br>👯 I'm looking to collaborate on Website backend development<br>🤝 I'm looking for help with Android Development<br>🌱 I'm currently learning DSA, C++, Java, Android Development, Backend Development
+🔭 I'm currently working on the Admin Dashboard for managing events and fests<br>👯 I'm looking to collaborate on Website backend development<br>🤝 I'm looking for help with Android Development<br>🌱 I'm currently learning DSA, C++, Java, Android Development, Backend Development
 
 
 ## 🌐 Socials:
